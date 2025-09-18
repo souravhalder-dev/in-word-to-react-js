@@ -3,3 +3,8 @@
   padding: 20px;
   margin: 20px;
 }
+.carfBacground {
+  background-color: aqua;
+  border-radius: 20px;
+  border: 2px solid;
+}
